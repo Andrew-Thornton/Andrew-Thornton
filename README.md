@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrew-Thornton
-- 👀 I’m interested in small product designs which are less then 2 years of work. I am interested in areas such as defence, audio/video applications, mathematics, and trading.
+- 👀 I’m interested in small product designs which are less than 2 years of work. I am interested in areas such as defence, audio/video applications, mathematics, and trading.
 - 🌱 I’m currently reading stockfish's code base which incorporates nnue and alpha beta pruning or min max algorithms.
 - 💞️ I may be looking to collaborate, just send me a message.
 - 📫 The best way to reach me is via linked in https://www.linkedin.com/in/andrew-thornton-976a95231/
